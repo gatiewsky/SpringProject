@@ -23,6 +23,9 @@ public class HelloApplication extends Application {
         Button button = new Button("Kliknij mnie");
         Button button = new Button("Kliknij mnie");
         Button button = new Button("Kliknij mnie");
+        Button button = new Button("Kliknij mnie");
+        Button button = new Button("Kliknij mnie");
+        Button button = new Button("Kliknij mnie");
 
         // Tworzenie tła z prostokątem
         Rectangle background = new Rectangle();
